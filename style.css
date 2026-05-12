@@ -45,7 +45,8 @@
       linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.8)),
       url("images/K3tsulogo.png");
   
-    background-size:cover;
+    background-size: contain;
+    background-repeat:no-repeat;
     background-position:center;
   
     display:flex;
